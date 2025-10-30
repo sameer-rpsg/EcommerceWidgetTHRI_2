@@ -7,7 +7,7 @@ const EcomWidgetCard = ({imgSrc}) => {
    
 <div className={styles.EcomHovercardwrapperInner}>
 	<div className={styles.EcomWidgetcard_image}>
-        <Image src={imgSrc} width={1000} height={1000} alt=''/>
+        <img src={imgSrc} width={1000} height={1000} alt=''/>
     </div>
 	<div className={styles.EcomWidgetcard_overlay}>
 		<div className={styles.EcomWidgetcard_content}>

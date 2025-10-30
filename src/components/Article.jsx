@@ -8,8 +8,8 @@ const Article = () => {
       data-current="true"
       data-promotional="false"
       islast="false"
-      data-id="68c7ec4d0215019d6ccfd0e0"
-      data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+      data-id="66ec2fbcb2cf6bdd37c08120"
+      data-slug="/lifestyle/fashion/dressing-the-part-what-is-method-dressing-and-how-to-do-it-right"
       style={{ position: "relative" }}
     >
       <section id="storiesherosec" className="Stories_storiesHeroSec__eOd_9">
@@ -19,27 +19,29 @@ const Article = () => {
               <div className="Stories_breadcumSec__5W47j">
                 <ol className="Stories_breadcrumb__GxI6O">
                   <li className="Stories_breadcrumb-item__0eUTU">
-                    <a href="/features">Features</a>
+                    <a href="/lifestyle">Lifestyle</a>
                   </li>
                   <li className="Stories_breadcrumb-item__0eUTU">
-                    <a href="/features/insight">Insight</a>
+                    <a href="/lifestyle/fashion">Fashion</a>
                   </li>
                 </ol>
               </div>
               <div className="Stories_contentSec__EbmC6">
                 <h1>
-                  Dulquer Salmaan On Pan-Indian Success of 'Lokah': 'We Thought
-                  We Might Lose Money on This Film'
+                  Dressing the Part: What is Method Dressing and How to Do it
+                  Right
                 </h1>
                 <p>
-                  Actor-producer Dulquer Salmaan says that the team braced for a
-                  loss before 'Lokah: Chapter 1 - Chandra' became a nationwide
-                  hit.{" "}
+                  The trend that has taken over every red carpet — is it purely
+                  a promotional tactic, or is it fundamentally redefining
+                  celebrity style? The Hollywood Reporter India invites actors
+                  Janhvi Kapoor, Ananya Panday and Ishaan Khatter, along with
+                  stylist Ami Patel, to weigh in on method dressing.
                 </p>
                 <div className="Stories_author_wrapper__X_Bc3">
                   <div>
                     <img
-                      alt="Team THR India"
+                      alt="Ananya Shankar"
                       loading="lazy"
                       width={50}
                       height={50}
@@ -47,7 +49,7 @@ const Article = () => {
                       data-nimg={1}
                       className="Stories_author_image__mA2__"
                       style={{ color: "transparent" }}
-                      srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Fwriter%2F-2024-09-22T13%253A03%253A07.306Z-100x100%2520THR%2520favicon.png&w=128&q=75"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Fwriter%2F-2024-10-14T11%253A26%253A10.068Z-use%2Bthis.jpg&w=128&q=75"
                     />
                   </div>
                   <div className="Stories_author_right__4NHrP">
@@ -62,7 +64,7 @@ const Article = () => {
                       <span className="Stories_author_name__6fo16">
                         By{/* */}{" "}
                         <span style={{ cursor: "pointer" }}>
-                          Team THR India
+                          Ananya Shankar
                         </span>
                       </span>
                       <span>
@@ -93,7 +95,7 @@ const Article = () => {
                       </span>
                     </div>
                     <span className="Stories_timeline__WwKrc">
-                      LAST UPDATED: {/* */}SEP 15, 2025, 17:17 IST
+                      LAST UPDATED: {/* */}OCT 07, 2024, 11:25 IST
                     </span>
                     <span
                       className="Stories_timeline__WwKrc"
@@ -115,7 +117,7 @@ const Article = () => {
               <ul className="Stories_followus__pCkrF">
                 <a
                   target="_blank"
-                  href="https://wa.me/?text=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+                  href="https://wa.me/?text=https://www.hollywoodreporterindia.com/lifestyle/fashion/dressing-the-part-what-is-method-dressing-and-how-to-do-it-right"
                 >
                   <li className="Stories_items__gSCVK">
                     <span className="Stories_tooltipText__7XsEo">
@@ -137,7 +139,7 @@ const Article = () => {
                 </a>
                 <a
                   target="_blank"
-                  href="https://www.facebook.com/dialog/share?app_id=145634995501895&display=popup&href=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film&redirect_uri=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+                  href="https://www.facebook.com/dialog/share?app_id=145634995501895&display=popup&href=https://www.hollywoodreporterindia.com/lifestyle/fashion/dressing-the-part-what-is-method-dressing-and-how-to-do-it-right&redirect_uri=https://www.hollywoodreporterindia.com/lifestyle/fashion/dressing-the-part-what-is-method-dressing-and-how-to-do-it-right"
                 >
                   <li className="Stories_items__gSCVK">
                     <span className="Stories_tooltipText__7XsEo">
@@ -159,7 +161,7 @@ const Article = () => {
                 </a>
                 <a
                   target="_blank"
-                  href="https://twitter.com/intent/tweet?text=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+                  href="https://twitter.com/intent/tweet?text=https://www.hollywoodreporterindia.com/lifestyle/fashion/dressing-the-part-what-is-method-dressing-and-how-to-do-it-right"
                 >
                   <li className="Stories_items__gSCVK">
                     <span className="Stories_tooltipText__7XsEo">
@@ -201,16 +203,11 @@ const Article = () => {
             <div className="col-md-12">
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-top-68c7ec4d0215019d6ccfd0e0"
+                  id="div-gpt-ad-stories-top-66ec2fbcb2cf6bdd37c08120"
                   data-cy="Ad"
                   className="ad-text"
-                  data-google-query-id="CLO5mb-G3Y8DFUmoZgIdI6kE2w"
-                >
-                  <div
-                    id="google_ads_iframe_/23290324739/THRI-Desktop-Top-970_0__container__"
-                    // style={{ border: "0pt none", width: 970, height: 0 }}
-                  />
-                </div>
+                  data-google-query-id="CLTVsM7yy5ADFUSgrAIdC_0h7A"
+                ></div>
               </div>
             </div>
           </div>
@@ -227,7 +224,7 @@ const Article = () => {
                 <div className="Stories_heroImgCont__wemPS">
                   <div className="pos-rel-full">
                     <img
-                      alt="Dulquer Salmaan talks about surpassing expectations with 'Lokah'"
+                      alt="Janhvi Kapoor in a jersey-inspired blouse, promoting <i>Mr. & Mrs. Mahi</i>."
                       loading="lazy"
                       decoding="async"
                       data-nimg="fill"
@@ -242,7 +239,7 @@ const Article = () => {
                         color: "transparent",
                       }}
                       sizes="100vw"
-                      srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T10%253A54%253A22.589Z-IMG_4145.JPEG&w=1920&q=75"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Farticle%2F-2024-09-23T07%253A45%253A17.775Z-Lead%2520Method-Dressing.jpg&w=3840&q=75"
                     />
                   </div>
                 </div>
@@ -255,8 +252,8 @@ const Article = () => {
             <div className="col-md-12 text-start">
               <div className="Stories_mainCaption__CKMoz">
                 <span className="Stories_caption__pLYWo">
-                  Dulquer Salmaan talks about surpassing expectations with
-                  'Lokah'
+                  Janhvi Kapoor wears a jersey-inspired blouse while promoting{" "}
+                  <i>Mr. &amp; Mrs. Mahi</i>.
                 </span>
               </div>
             </div>
@@ -277,52 +274,94 @@ const Article = () => {
                     >
                       <p style={{ textAlign: "left" }} />
                       <p style={{ textAlign: "left" }}>
-                        <span>In an exclusive conversation with </span>
-                        <span style={{ fontStyle: "italic" }}>
-                          The Hollywood Reporter India
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          Whether it’s Zendaya sporting tennis dresses for{" "}
                         </span>
-                        <span>, </span>
-                        <a
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          href="https://www.hollywoodreporterindia.com/tag/dulquer-salmaan"
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontStyle: "italic" }}
                         >
-                          <span>actor-producer Dulquer Salmaan</span>
-                        </a>
-                        <span>
+                          Challengers
+                        </span>
+                        <span style={{ color: "rgb(0, 0, 0)" }}> (2024)</span>
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontStyle: "italic" }}
+                        >
+                          ,
+                        </span>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
                           {" "}
-                          opened up about the overwhelming success of{" "}
+                          or Margot Robbie drenched in pink for{" "}
                         </span>
-                        <a
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          style={{ fontStyle: "italic" }}
-                          href="https://www.hollywoodreporterindia.com/features/insight/lokah-crosses-200-crore-ranks-4th-among-all-time-malayalam-blockbusters"
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontStyle: "italic" }}
                         >
-                          <span style={{ fontStyle: "italic" }}>
-                            Lokah: Chapter 1 — Chandra
-                          </span>
-                        </a>
-                        <span>
-                          , a film that has not only resonated with Malayalam
-                          audiences but has also broken barriers to become a
-                          pan-India cultural phenomenon.
+                          Barbie
+                        </span>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          {" "}
+                          (2023), ‘method dressing’ has been the latest buzzword
+                          bridging the worlds of film and fashion.
                         </span>
                       </p>
                       <p style={{ textAlign: "left" }} />
-                      <p style={{ textAlign: "left" }}>
-                        <span>
-                          Reflecting on the project, Dulquer admitted the team
-                          had modest expectations. “This is our seventh
-                          production, and we've always managed to land safe. But
-                          nothing has been like{" "}
+                      <p style={{ textAlign: "justify" }}>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          This trend, where actors sartorially pay tribute to
+                          their characters during promotions, makes red-carpet
+                          fashion more exciting, while drawing attention back to
+                          the film. But what began as a playful fashion
+                          statement, has now turned into a must-have for all
+                          movie stars — and they’re taking it to a whole new
+                          level.&nbsp;
                         </span>
-                        <span style={{ fontStyle: "italic" }}>Lokah</span>
-                        <span>
-                          ,” he said. “Even as an actor, none of my films have
-                          exploded like this. It’s been accepted across
-                          demographics and has now become a part of pop culture.
-                          That’s what's most exciting.”
+                        <br />
+                      </p>
+                      <h2
+                        style={{
+                          textAlign: "justify",
+                          fontSize: "34px!important",
+                        }}
+                      >
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontWeight: "bold" }}
+                        >
+                          Who Did it First and Who’s Done it Best
+                        </span>
+                      </h2>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "justify" }}>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          Back in 1992, Geena Davis led the charge when she
+                          chose to dress like a baseball at the premiere of{" "}
+                        </span>
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontStyle: "italic" }}
+                        >
+                          A League of Their Own
+                        </span>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          . Though “it’s always been encouraged,” says actress
+                          Janhvi Kapoor, who recently revived the conversation
+                          by bringing it to India through her method dressing
+                          for{" "}
+                        </span>
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontStyle: "italic" }}
+                        >
+                          Ulajh
+                        </span>
+                        <span style={{ color: "rgb(0, 0, 0)" }}> and </span>
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontStyle: "italic" }}
+                        >
+                          Mr. &amp; Mrs. Mahi
+                        </span>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          {" "}
+                          promotions. “We’re told to stay within the worlds of
+                          our characters, so audiences are introduced to it.
+                          They then find it easier to believe when they watch
+                          the film,” she explains.&nbsp;
                         </span>
                       </p>
                       <div
@@ -333,95 +372,103 @@ const Article = () => {
                           margin: "20px 0",
                         }}
                       >
-                        <div className="Stories_relatedPostWrapper__sQzlS">
-                          <h2 className="Stories_relatedPostHeading__7h_ax">
-                            You may also like
-                          </h2>
-                          <div
-                            className="Stories_row__bZ032"
-                            style={{ width: "100%" }}
-                          >
-                            <a
-                              className="Stories_relatedPostCard__Chg_m"
-                              target="_blank"
-                              href="/features/insight/mammootty-is-moothon-dulquer-salmaan-confirms-he-played-the-character-in-lokah"
-                            >
-                              <div className="Stories_relatedPostImage__mctc0">
-                                <img
-                                  alt="Mammootty Is Moothon; Dulquer Salmaan Confirms He Played The Character In 'Lokah'"
-                                  loading="lazy"
-                                  decoding="async"
-                                  data-nimg="fill"
-                                  className="imgcover"
-                                  sizes="100vw"
-                                  srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-08T06%253A08%253A55.327Z-Untitled%2520design-174.jpg&w=1920&q=75"
-                                  style={{
-                                    position: "absolute",
-                                    height: "100%",
-                                    width: "100%",
-                                    inset: 0,
-                                    objectFit: "cover",
-                                    color: "transparent",
-                                  }}
-                                />
-                              </div>
-                              <div className="w-100 bg-red-100">
-                                <h3 className="Stories_category__PMzs5 mt-0 mb-1">
-                                  Insight
-                                </h3>
-                                <h3 className="Stories_card-title__yoKzB mb-0">
-                                  Mammootty Is Moothon: Dulquer Salmaan Confirms
-                                  He Played The Role In 'Lokah Chapter One:
-                                  Chandra'
-                                </h3>
-                              </div>
-                            </a>
+                        <div
+                          className="Stories_image__Y76tU"
+                          style={{ width: "100%" }}
+                        >
+                          <img
+                            alt="Janhvi Kapoor promoting <i>Mr. & Mrs. Mahi</i>."
+                            loading="lazy"
+                            width={700}
+                            height={475}
+                            decoding="async"
+                            data-nimg={1}
+                            style={{
+                              color: "transparent",
+                              width: "100%",
+                              height: "auto",
+                            }}
+                            sizes="100vw"
+                            src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Feditor-images%2F-2024-09-23T07%253A35%253A11.206Z-Method-Dressing-New1.jpg&w=3840&q=75"
+                          />
+                          <div className="Stories_mainCaption__CKMoz">
+                            <span className="Stories_caption__pLYWo">
+                              Janhvi Kapoor wears a pearl choker featuring a
+                              bat-and-ball motif while promoting{" "}
+                              <i>Mr. &amp; Mrs. Mahi</i>.
+                            </span>
+                            <span className="Stories_courtesy__IorTZ" />
                           </div>
                         </div>
                       </div>
-                      <EcomWidgetProductGrid/>
-                      <div>
-                        <div className="ad-flex-all">
-                          <div
-                            id="div-gpt-ad-stories-middle-68c7ec4d0215019d6ccfd0e0-4"
-                            data-cy="Ad"
-                            className="ad-text"
-                            data-google-query-id="CMDvnL-G3Y8DFbOrZgId-TUq6w"
-                            style={{ marginBottom: 20 }}
-                          >
-                            <div
-                              id="google_ads_iframe_/23290324739/THRI-Desktop-Middle-300_0__container__"
-                              style={{
-                                border: "0pt none",
-                                width: 300,
-                                height: 0,
-                              }}
-                            />
-                          </div>
-                        </div>
-                      </div>
-                      <p style={{ textAlign: "left" }}>
-                        <span>
-                          Dulquer revealed that the initial projections were far
-                          from optimistic. “Honestly, we were bracing ourselves
-                          for a potential loss. We believed in the film, but
-                          weren’t sure how it would perform commercially,” he
-                          shared. “Buyers weren’t lining up, and we had made
-                          peace with the idea that we might take a hit on the
-                          first film of the franchise.”
+                      <p style={{ textAlign: "justify" }}>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          However, stylist Ami Patel dates the trend all the way
+                          back to the British Raj, when Indians began
+                          incorporating the Western style of dressing. She
+                          states that “it took shape in the mid-20th century,
+                          with the influence of Bollywood and the growing
+                          interest in personalised, contextually appropriate
+                          fashion.”
+                        </span>
+                        <br />
+                      </p>
+                      <p style={{ textAlign: "justify" }}>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          On that note, Patel, the brains behind many of the
+                          promotional looks for{" "}
+                        </span>
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontStyle: "italic" }}
+                        >
+                          Mr. &amp; Mrs. Mahi,
+                        </span>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          {" "}
+                          shares her first rule for method dressing, which is
+                          “understanding the context and tailoring the outfit to
+                          suit the occasion, location and cultural background.”
+                          And from season ball-inspired mini bags to jersey
+                          blouses and pearl chokers featuring bat-and-ball
+                          motifs, it’s been nothing short of head-turning.
+                          “Bollywood and cricket are two things that are
+                          worshipped in India, so marrying them had a surreal
+                          outcome,” she says.
                         </span>
                       </p>
                       <p style={{ textAlign: "left" }} />
-                      <p style={{ textAlign: "left" }}>
-                        <span>
-                          But what followed was nothing short of extraordinary.
-                          From day one, Lokah began receiving rave reviews from
-                          all corners of the country. “I was seeing reactions
-                          from across India. It’s a testament to how audiences
-                          today are open to different languages and storytelling
-                          styles. People gave the film a chance on release day
-                          itself—watched it, reviewed it, made reels about it.
-                          It was surreal.”
+                      <div>
+                        <div className="ad-flex-all">
+                          <div
+                            id="div-gpt-ad-stories-middle-66ec2fbcb2cf6bdd37c08120-10"
+                            data-cy="Ad"
+                            className="ad-text"
+                            data-google-query-id="CK7dsM7yy5ADFYecrAIdc3Y5PQ"
+                            style={{ marginBottom: 20 }}
+                            ></div>
+                        </div>
+                            <EcomWidgetProductGrid/>
+                      </div>
+                      <p style={{ textAlign: "justify" }}>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          Working up to the release, Kapoor had noticed the buzz
+                          around her outfits, wanting to direct that energy
+                          towards her character and the film instead. Inspired
+                          by what her contemporaries had done abroad, she
+                          decided to probe deeper and add her own twist to the
+                          subject. Exploring the sporty and feminine sides of
+                          Mahi [her character in{" "}
+                        </span>
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontStyle: "italic" }}
+                        >
+                          Mr. &amp; Mrs. Mahi
+                        </span>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          ], she shares: “A lot of thought went into it, some of
+                          which people didn’t even pick up on! Everything [was
+                          intentional] — from the colours we used, to certain
+                          outfits being worn on specific days.”
                         </span>
                       </p>
                       <div
@@ -432,115 +479,313 @@ const Article = () => {
                           margin: "20px 0",
                         }}
                       >
-                        <div className="Stories_relatedPostWrapper__sQzlS">
-                          <h2 className="Stories_relatedPostHeading__7h_ax">
-                            You may also like
-                          </h2>
-                          <div
-                            className="Stories_row__bZ032"
-                            style={{ width: "100%" }}
-                          >
-                            <a
-                              className="Stories_relatedPostCard__Chg_m"
-                              target="_blank"
-                              href="/features/insight/lokah-michael-and-charlie-to-get-standalone-films-in-the-malayalam-films-universe"
-                            >
-                              <div className="Stories_relatedPostImage__mctc0">
-                                <img
-                                  alt=" Tovino Thomas and Dulquer Salmaan "
-                                  loading="lazy"
-                                  decoding="async"
-                                  data-nimg="fill"
-                                  className="imgcover"
-                                  sizes="100vw"
-                                  srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T09%253A47%253A33.289Z-tovino%2520and%2520dulquer.jpg&w=1920&q=75"
-                                  style={{
-                                    position: "absolute",
-                                    height: "100%",
-                                    width: "100%",
-                                    inset: 0,
-                                    objectFit: "cover",
-                                    color: "transparent",
-                                  }}
-                                />
-                              </div>
-                              <div className="w-100 bg-red-100">
-                                <h3 className="Stories_category__PMzs5 mt-0 mb-1">
-                                  Insight
-                                </h3>
-                                <h3 className="Stories_card-title__yoKzB mb-0">
-                                  'Lokah': Michael and Charlie to Get Standalone
-                                  Films in The Malayalam Film's Universe?
-                                </h3>
-                              </div>
-                            </a>
+                        <div
+                          className="Stories_image__Y76tU"
+                          style={{ width: "100%" }}
+                        >
+                          <img
+                            alt="Janhvi Kapoor promoting <i>Mr. & Mrs. Mahi</i>."
+                            loading="lazy"
+                            width={700}
+                            height={475}
+                            decoding="async"
+                            data-nimg={1}
+                            style={{
+                              color: "transparent",
+                              width: "100%",
+                              height: "auto",
+                            }}
+                            sizes="100vw"
+                            src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Feditor-images%2F-2024-09-23T07%253A35%253A36.947Z-Method-Dressing-New2.jpg&w=3840&q=75"
+                          />
+                          <div className="Stories_mainCaption__CKMoz">
+                            <span className="Stories_caption__pLYWo">
+                              Janhvi Kapoor flaunts a season ball-inspired mini
+                              bag while promoting <i>Mr. &amp; Mrs. Mahi</i>.
+                            </span>
+                            <span className="Stories_courtesy__IorTZ" />
                           </div>
                         </div>
                       </div>
-                      <p style={{ textAlign: "left" }}>
-                        <span>
-                          The actor-producer admitted that the magnitude of the
-                          film's success took the entire team by surprise. “We
-                          were all in disbelief. It just blew up. And suddenly
-                          the conversation shifted from ‘will it work?’ to ‘what
-                          do we do about the next one?’,” he laughed. “It’s
-                          exciting, but yeah—no pressure!”
+                      <p style={{ textAlign: "justify" }}>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          Patel agrees, emphasising the sheer inventiveness
+                          behind the looks. “Be it sarees, pantsuits, corset
+                          dresses or skirts — the cricket-inspired elements were
+                          a milestone for the [Indian] fashion industry. It’s
+                          never been seen here before.” For the actress, costume
+                          is integral to building a character and method
+                          dressing is simply an extension of that; but one that
+                          affords the talent more creative freedom. Kapoor
+                          continues, “I was happy that such amazing designers
+                          were enthusiastic about collaborating with me. I liked
+                          being creatively involved in my promotional looks, it
+                          gives me that opportunity to exercise my [artistic]
+                          muscle.”
+                        </span>
+                        <br />
+                      </p>
+                      <h2
+                        style={{
+                          textAlign: "justify",
+                          fontSize: "34px!important",
+                        }}
+                      >
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontWeight: "bold" }}
+                        >
+                          It’s All About the Details
+                        </span>
+                      </h2>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "justify" }}>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          While Kapoor’s interpretation of method dressing was
+                          bold and upfront, Ishaan Khatter prefers to be more
+                          understated. “I don't think I've ever taken fashion
+                          that seriously,” he says. He’s being modest, and
+                          judging by his recent promotional looks for{" "}
+                        </span>
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontStyle: "italic" }}
+                        >
+                          The Perfect Couple
+                        </span>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          , Khatter seems to be harbouring some serious fashion
+                          ambitions. He concurs with the fact that costuming is
+                          integral, especially in connecting the actor with
+                          their character in a more tangible way. But when it
+                          comes to promotional outfits, he opts for subtlety. “I
+                          like wearing one element that hints at the theme of
+                          the show — for instance, while promoting{" "}
+                        </span>
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontStyle: "italic" }}
+                        >
+                          Pippa,
+                        </span>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          {" "}
+                          I naturally ended up wearing military boots and
+                          camouflage,” Khatter explains.
+                        </span>
+                      </p>
+                      <p style={{ textAlign: "justify" }} />
+                      <p style={{ textAlign: "justify" }}>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          In fact, one of the great pleasures of his career, he
+                          says, was when the Indian Army Armoured Corps — a
+                          combat arm of the Indian Army — watched the film and
+                          made him and his castmates honorary members of the
+                          45th cavalry, the regiment they portrayed. “I was
+                          bestowed with a 45 pin, which I wore everywhere when I
+                          represented{" "}
+                        </span>
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontStyle: "italic" }}
+                        >
+                          Pippa
+                        </span>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          . I like little things like that,” he continues. This
+                          leads to Patel’s second tip for method dressing, which
+                          is “adding signature elements like jewellery and
+                          accessories to elevate the look.”
+                        </span>
+                      </p>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "justify" }}>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          But for Khatter, comfort is key. “You've got to wear
+                          the clothes, the clothes can't wear you,” he says,
+                          which brings one to Patel’s final and most important
+                          piece of advice: “Always keep your personal style and
+                          comfort in mind.”
                         </span>
                       </p>
                       <div>
                         <div className="ad-flex-all">
                           <div
-                            id="div-gpt-ad-stories-middle-68c7ec4d0215019d6ccfd0e0-9"
+                            id="div-gpt-ad-stories-middle-66ec2fbcb2cf6bdd37c08120-20"
                             data-cy="Ad"
                             className="ad-text"
-                            data-google-query-id="CJOZnr-G3Y8DFTGkZgIddxc2bw"
+                            data-google-query-id="CLvPsM7yy5ADFQierAIdmHc7Eg"
                             style={{ marginBottom: 20 }}
-                          >
-                            <div
-                              id="google_ads_iframe_/23290324739/THRI-Desktop-Middle-300_1__container__"
-                              style={{
-                                border: "0pt none",
-                                width: 300,
-                                height: 0,
-                              }}
-                            />
-                          </div>
+                          ></div>
                         </div>
                       </div>
                       <p style={{ textAlign: "left" }} />
-                      <p style={{ textAlign: "left" }}>
-                        <span>As </span>
-                        <span style={{ fontStyle: "italic" }}>Lokah </span>
-                        <span>
-                          continues to dominate conversations, Dulquer's journey
-                          as a risk-taking producer and actor cements his place
-                          as one of Indian cinema’s most dynamic forces.
+                      <p style={{ textAlign: "justify" }}>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          A character who truly embodied this advice was Bella
+                          ‘Bae’ Chowdhary, played by Ananya Panday, in her
+                          recent Amazon Prime Video show,
+                        </span>
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontStyle: "italic" }}
+                        >
+                          {" "}
+                          Call Me Bae.
+                        </span>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          {" "}
+                          Panday, typically known to play it safe and keep it
+                          simple, admitted to experimenting with her looks
+                          during promotions. Stepping outside her comfort zone,
+                          she says, “I wouldn't say that I'm completely method
+                          dressing, but my [promotional] looks are definitely a
+                          version of Bae. Now is the time for me to play around
+                          and try different things”. But, like Khatter, she’s
+                          toning it down. “I'm sticking to my blacks but adding
+                          a touch of fun. Today, for example, I'm wearing a
+                          black dress but with a giant purple flower on my
+                          shoulder.”
+                        </span>
+                      </p>
+                      <div
+                        style={{
+                          display: "flex",
+                          justifyContent: "center",
+                          width: "100%",
+                          margin: "20px 0",
+                        }}
+                      >
+                        <div
+                          className="Stories_image__Y76tU"
+                          style={{ width: "100%" }}
+                        >
+                          <img
+                            alt="Ananya Panday takes inspiration from her character's eclectic dressing sense as she promotes her recent Amazon Prime Video show, <i>Call Me Bae</i>."
+                            loading="lazy"
+                            width={700}
+                            height={475}
+                            decoding="async"
+                            data-nimg={1}
+                            style={{
+                              color: "transparent",
+                              width: "100%",
+                              height: "auto",
+                            }}
+                            sizes="100vw"
+                            src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Feditor-images%2F-2024-09-23T07%253A36%253A16.730Z-Ananya.jpg&w=3840&q=75"
+                          />
+                          <div className="Stories_mainCaption__CKMoz">
+                            <span className="Stories_caption__pLYWo">
+                              Ananya Panday takes inspiration from her
+                              character's eclectic dressing sense as she
+                              promotes her recent Amazon Prime Video show,{" "}
+                              <i>Call Me Bae</i>.
+                            </span>
+                            <span className="Stories_courtesy__IorTZ" />
+                          </div>
+                        </div>
+                      </div>
+                      <h2
+                        style={{
+                          textAlign: "justify",
+                          fontSize: "34px!important",
+                        }}
+                      >
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontWeight: "bold" }}
+                        >
+                          Sensitivity and Sustainability
+                        </span>
+                      </h2>
+                      <p style={{ textAlign: "justify" }}>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          While audiences applaud those championing the trend,
+                          they’re also quick to hold others accountable when it
+                          misses the mark. For instance, Blake Lively’s striking
+                          red look at the premiere of{" "}
+                        </span>
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontStyle: "italic" }}
+                        >
+                          Deadpool &amp; Wolverine
+                        </span>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          {" "}
+                          was greatly appreciated, but her floral outfits for
+                          the promotions of
+                        </span>
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontStyle: "italic" }}
+                        >
+                          {" "}
+                          It Ends With Us
+                        </span>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          {" "}
+                          received a lot of flak. Many felt that a film dealing
+                          with a topic as sensitive as domestic violence simply
+                          wasn’t the appropriate setting for a fashion moment.
+                          Context is paramount because, like all things, method
+                          dressing too has its time and place.
+                        </span>
+                      </p>
+                      <div
+                        style={{
+                          display: "flex",
+                          justifyContent: "center",
+                          width: "100%",
+                          margin: "20px 0",
+                        }}
+                      >
+                        <div
+                          className="Stories_image__Y76tU"
+                          style={{ width: "100%" }}
+                        >
+                          <img
+                            alt="Janhvi Kapoor in custom Falguni Shane Peacock for <i>Mr. & Mrs. Mahi</i> promotions."
+                            loading="lazy"
+                            width={700}
+                            height={475}
+                            decoding="async"
+                            data-nimg={1}
+                            style={{
+                              color: "transparent",
+                              width: "100%",
+                              height: "auto",
+                            }}
+                            sizes="100vw"
+                            src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Feditor-images%2F-2024-09-23T07%253A37%253A20.907Z-Method-Dressing-New3.jpg&w=3840&q=75"
+                          />
+                          <div className="Stories_mainCaption__CKMoz">
+                            <span className="Stories_caption__pLYWo">
+                              Janhvi Kapoor in custom Falguni Shane Peacock for{" "}
+                              <i>Mr. &amp; Mrs. Mahi</i> promotions.
+                            </span>
+                            <span className="Stories_courtesy__IorTZ" />
+                          </div>
+                        </div>
+                      </div>
+                      <p style={{ textAlign: "justify" }}>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          Another hot topic gaining traction in this
+                          conversation is overconsumption. In light of the
+                          environmental impact of fast fashion, Patel predicts
+                          that “method dressing is likely to evolve, with
+                          greater emphasis on sustainability and technology in
+                          the future.” As consumers become more conscious of the
+                          planet, trends like these will eventually grow to
+                          incorporate more “eco-friendly materials and
+                          practices.”&nbsp;
                         </span>
                       </p>
                       <p style={{ textAlign: "left" }} />
-                      <p style={{ textAlign: "left" }}>
-                        <span
-                          style={{ fontWeight: "bold", fontStyle: "italic" }}
-                        >
-                          Watch out for our full interview with the actor,
-                          dropping at 8 PM tonight on{" "}
-                        </span>
-                        <a
-                          target="_blank"
-                          rel="nofollow"
-                          style={{ fontWeight: "bold", fontStyle: "italic" }}
-                          href="https://www.youtube.com/@HollywoodReporterIndia"
-                        >
-                          <span
-                            style={{ fontWeight: "bold", fontStyle: "italic" }}
-                          >
-                            The Hollywood Reporter India's YouTube channel
-                          </span>
-                        </a>
-                        <span
-                          style={{ fontWeight: "bold", fontStyle: "italic" }}
-                        >
-                          .
+                      <p style={{ textAlign: "justify" }}>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          Method dressing effectively raises awareness for the
+                          films it promotes, and Janhvi Kapoor, for one, is
+                          staying on this bandwagon for a while. “The level of
+                          subtlety or extremity will vary depending on the film,
+                          but I’ve always been a fan of fashion,” she says,
+                          drawing the conversation to a close. At the end of the
+                          day, the secret to method dressing lies in finding the
+                          right balance between context, character and personal
+                          style, but with a sprinkling of drama.
                         </span>
                       </p>
                     </div>
@@ -552,12 +797,16 @@ const Article = () => {
                     <div className="Stories_breadcumSec__5W47j">
                       <ol className="Stories_breadcrumb__GxI6O">
                         <li className="Stories_breadcrumb-item__0eUTU">
-                          <a href="/tag/dulquer-salmaan">Dulquer Salmaan</a>
+                          <a href="/tag/features">Features</a>
                         </li>
                         <li className="Stories_breadcrumb-item__0eUTU">
-                          <a href="/tag/lokah-chapter-1-chandra">
-                            Lokah Chapter 1: Chandra
-                          </a>
+                          <a href="/tag/ananya-panday">Ananya Panday</a>
+                        </li>
+                        <li className="Stories_breadcrumb-item__0eUTU">
+                          <a href="/tag/ishaan-khatter">Ishaan Khatter</a>
+                        </li>
+                        <li className="Stories_breadcrumb-item__0eUTU">
+                          <a href="/tag/janhvi-kapoor">Janhvi Kapoor</a>
                         </li>
                       </ol>
                     </div>
@@ -569,17 +818,12 @@ const Article = () => {
             <div className="col-md-4 ln-cont">
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-rhs-300x250-68c7ec4d0215019d6ccfd0e0"
+                  id="div-gpt-ad-stories-rhs-300x250-66ec2fbcb2cf6bdd37c08120"
                   data-cy="Ad"
                   className="ad-text"
-                  data-google-query-id="CKrwn7-G3Y8DFV2kZgIdqYoEGg"
+                  data-google-query-id="CPb4sM7yy5ADFT-grAIdKFoRLQ"
                   style={{ marginBottom: 20 }}
-                >
-                  <div
-                    id="google_ads_iframe_/23290324739/THRI-Desktop-RHS-300_0__container__"
-                    style={{ border: "0pt none", width: 300, height: 0 }}
-                  />
-                </div>
+                ></div>
               </div>
               <div className="row mob-hidden">
                 <div className="col-md-12">
@@ -588,7 +832,7 @@ const Article = () => {
                 <div className="col-md-12">
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/what-to-watch-this-week-the-bads-of-bollywood-jolly-llb-3-a-big-bold-beautiful-journey-and-more"
+                    href="/lifestyle/fashion/what-regina-cassandra-siddhartha-shankar-mozez-singh-and-aishwarya-sonar-wear-to-work"
                   >
                     <div className="image h100">
                       <img
@@ -598,7 +842,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T09%253A17%253A09.759Z-what%2520to%2520watch%2520%25282%2529.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-23T11%253A05%253A33.484Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -610,18 +854,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 24, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        What to Watch This Week: 'The Ba***ds of Bollywood,'
-                        'Jolly LLB 3,' 'A Big Bold Beautiful Journey' and More
+                        On-Set Wardrobes: What Regina Cassandra, Siddhartha
+                        Shankar, Mozez Singh and Aishwarya Sonar Wear To Work
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/we-wrote-omkara-in-eighteen-days-abhishek-chaubey-on-his-journey-with-vishal-bhardwaj"
+                    href="/lifestyle/travel/travel-like-karishma-tanna-how-the-actor-curated-an-unforgettable-vacation-in-croatia"
                   >
                     <div className="image h100">
                       <img
@@ -631,7 +875,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T09%253A30%253A55.819Z-IMG_4162.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-19T06%253A24%253A31.600Z-Untitled%2520design_20251019_113040_0000.png&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -643,18 +887,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Travel</span>
+                        <span className="timeline">OCT 20, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Abhishek Chaubey on His Journey With Vishal Bhardwaj: We
-                        Wrote 'Omkara' In Eighteen Days
+                        Travel Like Karishma Tanna: How The Actor Curated an
+                        Unforgettable Vacation in Croatia
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/interviews/sharmila-tagore-interview-on-stardom-today-and-wanting-to-play-a-villainous-character-next"
+                    href="/lifestyle/fashion/vikram-phadnis-is-celebrating-35-yearsand-finally-making-his-hindi-film-debut"
                   >
                     <div className="image h100">
                       <img
@@ -664,7 +908,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-09-16T08%253A13%253A18.276Z-Lead.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-14T08%253A57%253A36.966Z-1.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -676,19 +920,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Interviews</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 14, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Sharmila Tagore on Stardom Today and Wanting to Play a
-                        'Villainous' Character Next: 'Villains, Too, Sometimes
-                        Have Much To Say...'
+                        Interview | Vikram Phadnis On Celebrating 35 Years and
+                        Making His Hindi Film Debut
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/delhi-high-court-to-rule-on-karan-johars-personality-rights-plea-on-september-17"
+                    href="/lifestyle/travel/the-bicester-collection-europes-villages-of-style-flavor-and-discovery"
                   >
                     <div className="image h100">
                       <img
@@ -698,7 +941,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Farticle%2F-2024-09-21T11%253A15%253A29.957Z-Lead1-KJ.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-10T09%253A30%253A37.505Z-Bicester.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -709,19 +952,25 @@ const Article = () => {
                       />
                     </div>
                     <div className="content">
+                      <div
+                        className="sponsored-tag"
+                        style={{ lineHeight: 1, fontWeight: 700 }}
+                      >
+                        Sponsored
+                      </div>
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Travel</span>
+                        <span className="timeline">OCT 10, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Delhi High Court to Rule on Karan Johar’s Personality
-                        Rights Plea on September 17
+                        The Bicester Collection: Europe’s Villages of Style,
+                        Flavor, and Discovery
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/ustaad-bhagat-singh-the-pawan-kalyan-movie-completes-filming-sreeleela"
+                    href="/lifestyle/fashion/gurfateh-pirzada-on-neels-style-from-call-me-bae-and-why-jacob-elordi-inspires-him"
                   >
                     <div className="image h100">
                       <img
@@ -731,7 +980,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T06%253A43%253A53.306Z-Untitled%2520design-185.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-09T05%253A50%253A49.207Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -743,18 +992,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 10, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Ustaad Bhagat Singh': The Pawan Kalyan Movie Wraps Up
-                        Filming
+                        Gurfateh Pirzada on Neel's Style From 'Call Me Bae' And
+                        Why Jacob Elordi Inspires Him
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/interviews/bobby-deol-on-the-bads-of-bollywood-and-why-aryan-khan-is-a-good-actor-he-looks-like-his-father-but-hes-different"
+                    href="/lifestyle/fashion/from-deepika-padukone-to-angela-bassett-heres-why-jj-valaya-has-been-couturier-to-the-stars-since-1992"
                   >
                     <div className="image h100">
                       <img
@@ -764,7 +1013,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T03%253A35%253A17.756Z-Untitled%2520design_20250916_090438_0000.png&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-06T07%253A45%253A51.916Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -776,19 +1025,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Interviews</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 6, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Bobby Deol on 'The Ba***ds of Bollywood' and Why Aryan
-                        Khan is a Good Actor: 'He Looks Like His Father, But
-                        He's Different'
+                        From Deepika Padukone to Angela Bassett, Here's Why J.J.
+                        Valaya has Been Couturier to the Stars Since 1992
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/lokah-director-dominic-arun-on-franchises-future-we-know-how-this-is-going-to-end"
+                    href="/lifestyle/food/from-ananya-panday-to-suhana-khan-everyones-talking-about-gaijin-where-tokyo-meets-mumbai"
                   >
                     <div className="image h100">
                       <img
@@ -798,7 +1046,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T05%253A53%253A11.244Z-IMG_4155.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-02T06%253A42%253A18.807Z-Untitled%2520design%2520%25284%2529.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -810,18 +1058,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Food</span>
+                        <span className="timeline">OCT 2, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Lokah' Director Dominic Arun on Franchise's Future: 'We
-                        Know How This Is Going to End'
+                        Everyone’s Talking About Gaijin, Where Tokyo Meets
+                        Mumbai
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/vimukt-in-search-of-the-sky-wins-netpac-award-at-tiff-2025"
+                    href="/lifestyle/interiors/shah-rukh-khan-to-ranveer-singh-everything-to-know-about-actors-vanity-vans-in-bollywood"
                   >
                     <div className="image h100">
                       <img
@@ -831,7 +1079,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-12T11%253A32%253A37.678Z-IMG_4087.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-29T10%253A02%253A34.200Z-New_Lead2.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -843,18 +1091,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Interiors</span>
+                        <span className="timeline">SEP 29, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Vimukt (In Search of the Sky) Wins NETPAC Award at TIFF
-                        2025{" "}
+                        Shah Rukh Khan to Ranveer Singh: Everything to Know
+                        About Actors' Vanity Vans in Bollywood
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/lokah-star-kalyani-priyadarshan-shares-her-father-priyardarshans-reaction-dont-let-success-get-to-your-head"
+                    href="/lifestyle/travel/inside-dhvani-bhanushalis-dreamy-italy-trip-rome-amalfi-milan-and-more"
                   >
                     <div className="image h100">
                       <img
@@ -864,7 +1112,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T12%253A06%253A12.104Z-IMG_4149.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-09-23T07%253A09%253A30.710Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -876,19 +1124,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 15, 2025</span>
+                        <span className="category">Travel</span>
+                        <span className="timeline">SEP 29, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Lokah' Star Kalyani Priyadarshan on Her Father’s
-                        Reaction To Film: 'He messaged Me — Don’t Let Success
-                        Get To Your Head'
+                        Inside Dhvani Bhanushali’s Dreamy Italy Trip: Rome,
+                        Amalfi, Milan and More
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/lokah-michael-and-charlie-to-get-standalone-films-in-the-malayalam-films-universe"
+                    href="/lifestyle/fashion/alia-bhatt-revisits-90s-gucci-by-tom-ford-at-the-bads-of-bollywood-premiere"
                   >
                     <div className="image h100">
                       <img
@@ -898,7 +1145,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T09%253A47%253A33.289Z-tovino%2520and%2520dulquer.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-18T09%253A22%253A33.234Z-WhatsApp%2520Image%25202025-09-18%2520at%25202.52.17%2520PM.jpeg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -910,12 +1157,12 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 15, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">SEP 18, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Lokah': Michael and Charlie to Get Standalone Films in
-                        The Malayalam Film's Universe?
+                        Alia Bhatt Revisits ’90s Gucci by Tom Ford at 'The
+                        Ba***ds of Bollywood' Premiere
                       </h3>
                     </div>
                   </a>
@@ -923,17 +1170,12 @@ const Article = () => {
               </div>
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-rhs-300x600-68c7ec4d0215019d6ccfd0e0"
+                  id="div-gpt-ad-stories-rhs-300x600-66ec2fbcb2cf6bdd37c08120"
                   data-cy="Ad"
                   className="ad-text"
-                  data-google-query-id="CJi3ob-G3Y8DFUijZgIdExUS7Q"
+                  data-google-query-id="CKDksc7yy5ADFfWQrAIdCkUxCQ"
                   style={{ marginBottom: 20 }}
-                >
-                  <div
-                    id="google_ads_iframe_/23290324739/THRI-Desktop-RHS-300_1__container__"
-                    style={{ border: "0pt none", width: 300, height: 0 }}
-                  />
-                </div>
+                ></div>
               </div>
             </div>
           </div>
@@ -941,24 +1183,19 @@ const Article = () => {
       </section>
       <div className="ad-flex-all">
         <div
-          id="div-gpt-ad-stories-bottom-68c7ec4d0215019d6ccfd0e0"
+          id="div-gpt-ad-stories-bottom-66ec2fbcb2cf6bdd37c08120"
           data-cy="Ad"
           className="ad-text"
-          data-google-query-id="CProo7-G3Y8DFYSpZgIdOB4Tfg"
-        >
-          <div
-            id="google_ads_iframe_/23290324739/THRI-Desktop-Bottom-300_0__container__"
-            style={{ border: "0pt none", width: 300, height: 0 }}
-          />
-        </div>
+          data-google-query-id="CIKUss7yy5ADFcqcrAIdLHMepQ"
+        ></div>
       </div>
       <div className="Stories_nextStoryContainer__Dr6xj container">
         <h2 className="Stories_nextStoryTitle__G3Ma4">Next Story</h2>
         <div className="Stories_nextStoryLine__l7CRg" />
       </div>
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="66ec2fbcb2cf6bdd37c08120"
+        data-slug="/lifestyle/fashion/dressing-the-part-what-is-method-dressing-and-how-to-do-it-right"
         data-position="top"
         data-marker="true"
         islast="false"
@@ -969,12 +1206,12 @@ const Article = () => {
           height: 10,
           top: "10%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="66ec2fbcb2cf6bdd37c08120"
+        data-slug="/lifestyle/fashion/dressing-the-part-what-is-method-dressing-and-how-to-do-it-right"
         data-position="upperMiddle"
         data-marker="true"
         islast="false"
@@ -985,12 +1222,12 @@ const Article = () => {
           height: 10,
           top: "30%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="66ec2fbcb2cf6bdd37c08120"
+        data-slug="/lifestyle/fashion/dressing-the-part-what-is-method-dressing-and-how-to-do-it-right"
         data-position="middle"
         data-marker="true"
         islast="false"
@@ -1001,12 +1238,12 @@ const Article = () => {
           height: 10,
           top: "50%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="66ec2fbcb2cf6bdd37c08120"
+        data-slug="/lifestyle/fashion/dressing-the-part-what-is-method-dressing-and-how-to-do-it-right"
         data-position="lowerMiddle"
         data-marker="true"
         islast="false"
@@ -1017,12 +1254,12 @@ const Article = () => {
           height: 10,
           top: "70%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="66ec2fbcb2cf6bdd37c08120"
+        data-slug="/lifestyle/fashion/dressing-the-part-what-is-method-dressing-and-how-to-do-it-right"
         data-position="bottom"
         data-marker="true"
         islast="false"
@@ -1033,7 +1270,7 @@ const Article = () => {
           height: 10,
           top: "90%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
     </div>

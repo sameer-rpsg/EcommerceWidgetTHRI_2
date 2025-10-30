@@ -8149,6 +8149,9 @@ a {
     margin-bottom: 0 !important;
 }
 @media screen and (max-width: 900px) {
+    .Stories_contentSec__EbmC6 h1 {
+        font-size: 40px;
+    }
     #storiesherosec .col-md-4 {
         justify-content: flex-start !important;
     }

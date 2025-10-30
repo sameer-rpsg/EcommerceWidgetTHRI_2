@@ -9,7 +9,7 @@ const EcomWidgetProductGrid = () => {
       <div
         className={`${styles.EcomWidgetGridWrapper} ${styles.EcomWidgetProductGridWrapper}`}
       >
-        <EcomWidgetCard imgSrc="/220908-gucci-x-gq-mo3-0041-v3-1.webp" />
+        <EcomWidgetCard imgSrc="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Feditor-images%2F-2024-09-23T07%253A37%253A20.907Z-Method-Dressing-New3.jpg&w=3840&q=75" />
         <div className={styles.EcomPrdGrid}>
           <div className={styles.EcomPrdGridImgCntr}>
             <Image
